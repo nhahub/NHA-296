@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments (If you created one) ---
+venv/
+env/
+.env
+
+# --- VS Code Settings (User specific) ---
+.vscode/
+*.code-workspace
+
+# --- OS Generated Files (Mac/Windows junk) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Large/Temporary Data (Optional) ---
+# Your CSVs are small enough to upload, so we will NOT ignore them.
+# But if you had huge files (>100MB), you would list them here.
+
+# --- Jupyter Checkpoints (If you used Notebooks) ---
+.ipynb_checkpoints
